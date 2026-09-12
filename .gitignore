@@ -1,0 +1,15 @@
+# scratch
+q.json
+*.tmp
+
+# python
+__pycache__/
+*.pyc
+
+# os / editors
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# local claude state
+.claude/settings.local.json
